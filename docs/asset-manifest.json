@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.20fc6192.chunk.css",
-    "main.js": "/static/js/main.962c766f.chunk.js",
-    "main.js.map": "/static/js/main.962c766f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d04f9b1f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d04f9b1f.js.map",
-    "static/js/2.d41d9abe.chunk.js": "/static/js/2.d41d9abe.chunk.js",
-    "static/js/2.d41d9abe.chunk.js.map": "/static/js/2.d41d9abe.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.20fc6192.chunk.css.map": "/static/css/main.20fc6192.chunk.css.map",
-    "static/js/2.d41d9abe.chunk.js.LICENSE.txt": "/static/js/2.d41d9abe.chunk.js.LICENSE.txt"
+    "main.css": "/bmi-app/public/static/css/main.20fc6192.chunk.css",
+    "main.js": "/bmi-app/public/static/js/main.5ee6567c.chunk.js",
+    "main.js.map": "/bmi-app/public/static/js/main.5ee6567c.chunk.js.map",
+    "runtime-main.js": "/bmi-app/public/static/js/runtime-main.3d203b9f.js",
+    "runtime-main.js.map": "/bmi-app/public/static/js/runtime-main.3d203b9f.js.map",
+    "static/js/2.d41d9abe.chunk.js": "/bmi-app/public/static/js/2.d41d9abe.chunk.js",
+    "static/js/2.d41d9abe.chunk.js.map": "/bmi-app/public/static/js/2.d41d9abe.chunk.js.map",
+    "index.html": "/bmi-app/public/index.html",
+    "static/css/main.20fc6192.chunk.css.map": "/bmi-app/public/static/css/main.20fc6192.chunk.css.map",
+    "static/js/2.d41d9abe.chunk.js.LICENSE.txt": "/bmi-app/public/static/js/2.d41d9abe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d04f9b1f.js",
+    "static/js/runtime-main.3d203b9f.js",
     "static/js/2.d41d9abe.chunk.js",
     "static/css/main.20fc6192.chunk.css",
-    "static/js/main.962c766f.chunk.js"
+    "static/js/main.5ee6567c.chunk.js"
   ]
 }
