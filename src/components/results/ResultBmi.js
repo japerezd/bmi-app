@@ -54,7 +54,7 @@ export const ResultBmi = () => {
                 <span className="result-bmi">{bmi}</span>
             </div>
 
-            <img src={require(`./assets/images/${name}`)} className="person-weight" alt={name}/>
+            <img src={`${process.env.PUBLIC_URL}/images/${name}`} className="person-weight" alt={name}/>
 
             <div className="range-description">
                 <b>{ range }</b>
