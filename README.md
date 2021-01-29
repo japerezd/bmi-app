@@ -1,4 +1,4 @@
 # BMI Calculator for adults
-BMI calaculator made on React and using Context API and was made for adults only
+BMI calculator made on React and using Context API and was made for adults only
 
-
+[BMI Calculator](https://japerezd.github.io/metric)
